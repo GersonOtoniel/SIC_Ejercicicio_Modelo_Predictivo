@@ -1,4 +1,4 @@
-# Ejericio por parte de la beca de Samsing
+# Ejericio por parte de la beca de Samsung Innovation Campus
 
 # ¿Qué hace el código del proyecto?
 
